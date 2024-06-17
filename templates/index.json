@@ -6,21 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Shen Zaijun",
+            "heading": "Radomir Stankovic",
             "heading_size": "h0"
           }
         },
-        "27af459a-162b-40c4-a260-f82300f46ba7": {
+        "text": {
           "type": "text",
           "settings": {
-            "text": "I'm a passionate Shopify Developer. Based in Serbia",
-            "text_style": "body"
+            "text": "<p>Professional <strong>Shopify Developer<\/strong> with more than 8 years of experience. My primary objective is to help Shopify store owners achieve their goals by providing on-time high quality work.<br\/><\/p>",
+            "text_style": "body",
+            "menu": "main-menu"
           }
         }
       },
       "block_order": [
         "heading",
-        "27af459a-162b-40c4-a260-f82300f46ba7"
+        "text"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bg.jpg",
@@ -29,8 +30,7 @@
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "inverse",
-        "image_behavior": "none",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": false,
         "show_text_below": false

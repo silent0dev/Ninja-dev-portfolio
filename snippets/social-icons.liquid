@@ -1,20 +1,14 @@
 <ul class="footer__list-social list-unstyled list-social">
   {%- if settings.social_linkedin_link != blank -%}
     <li class="list-social__item">
-      <a
-        href="{{ settings.social_linkedin_link }}"
-        class="link list-social__link"
-        target="_blank">
+      <a href="{{ settings.social_linkedin_link }}" class="link list-social__link" target="_blank">
         {%- render 'icon-linkedin' -%}
       </a>
     </li>
   {%- endif -%}
   {%- if settings.social_github_link != blank -%}
     <li class="list-social__item">
-      <a
-        href="{{ settings.social_github_link }}"
-        class="link list-social__link"
-        target="_blank">
+      <a href="{{ settings.social_github_link }}" class="link list-social__link" target="_blank">
         {%- render 'icon-github' -%}
       </a>
     </li>
@@ -35,10 +29,7 @@
   {%- endif -%}
   {%- if settings.social_cv_link != blank -%}
     <li class="list-social__item">
-      <a
-        href="{{ settings.social_cv_link }}"
-        class="link list-social__link"
-        target="_blank">
+      <a href="{{ settings.social_cv_link }}" class="link list-social__link" target="_blank">
         {%- render 'icon-cv' -%}
       </a>
     </li>

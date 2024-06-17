@@ -1,0 +1,61 @@
+{
+  "sections": {
+    "a27aa779-ffb6-492d-a442-2e10f69bfbbc": {
+      "type": "experience",
+      "blocks": {
+        "d2891af2-997d-4e81-9494-bc9dc97d60a1": {
+          "type": "summary",
+          "settings": {
+            "heading": "Radomir Stankovic",
+            "text": "<p>Innovative and deadline-driven Shopify Developer with 8+ years of experience designing and developing user-centered web development for clients.<\/p><p><\/p>"
+          }
+        },
+        "c48a78b7-7616-4b79-af1b-0365f517638d": {
+          "type": "education",
+          "settings": {
+            "heading": "University of Belgrade",
+            "time": "2008 - 2012",
+            "text": "<ul><li>Bachelor's degree<\/li><li>Computer of science<\/li><\/ul>"
+          }
+        },
+        "0c3051ae-d42d-43b1-bf0b-824b1c647ea0": {
+          "type": "experience",
+          "settings": {
+            "heading": "Shopify Full Stack Developer at Sidekick Web Studio",
+            "time": "January 2023 - Present",
+            "text": "<ul><li>Theme Development & App integration. Liquid + Vanilla Js<\/li><li>Inventory management system development. Node + Express + React + MongoDB<\/li><li>Storefront development. Storefront API + React.js<\/li><li>Conversion Rate Optimization by continuous A\/B testing using Google Optimize<\/li><li>Analytics, Insight, Tracking scripts setup on PDP, Cart, Checkout pages<\/li><\/ul>"
+          }
+        },
+        "61ccf453-67d7-4f9f-ba04-899c31418ea1": {
+          "type": "experience",
+          "settings": {
+            "heading": "Shopify Fullstack Developer at Ea Goats",
+            "time": "June 2018 - January 2023",
+            "text": "<ul><li>Shopify Plus theme development & customization based on Zeplin, Figma, XD, Invision Design<\/li><li>Custom Shopify app development using React.js, Node.js, GraphQL, MongoDB and Shopify Polaris<\/li><li>Shopify Custom Storefront development using Next.js, Shopify Storefront API, GraphQL<\/li><li>Writing Shopify Plus Scripts for line items, shipping, payments using Ruby<\/li><li>Recharge Customer Portal Development. Novum Theme Engine, Custom theme development using Vue.js, Recharge Admin Restful API<\/li><\/ul>"
+          }
+        },
+        "28fe10e1-8d98-41e3-b897-abd8583c8000": {
+          "type": "experience",
+          "settings": {
+            "heading": "Frontend Developer at Ripen",
+            "time": "March 2015 - May 2018",
+            "text": "<ul><li>Develop a collaboration tool that has most of the chat features, group management, project management, streaming, etc.<\/li><li>Build and deploy highly available & secure video conferencing solutions.<\/li><li>Development, design, and implementation of the new API endpoints as high-volume single-page applications that provided team management, and good communication<br\/>channels such as 1:1 text\/video chat, internal mailing system, and keeping manageable code complexity.<\/li><li>Implement UI using React.js and modern web technologies such as shared service, and WebRTC.<\/li><li>Improve the security and performance problems relating to end-to-end encryption in the system.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "d2891af2-997d-4e81-9494-bc9dc97d60a1",
+        "c48a78b7-7616-4b79-af1b-0365f517638d",
+        "0c3051ae-d42d-43b1-bf0b-824b1c647ea0",
+        "61ccf453-67d7-4f9f-ba04-899c31418ea1",
+        "28fe10e1-8d98-41e3-b897-abd8583c8000"
+      ],
+      "settings": {
+        "heading": "CHECK MY RESUME"
+      }
+    }
+  },
+  "order": [
+    "a27aa779-ffb6-492d-a442-2e10f69bfbbc"
+  ]
+}
